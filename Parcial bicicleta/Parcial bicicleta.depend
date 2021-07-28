@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1596033537 source:c:\users\dami_\onedrive\escritorio\parcial bicicleta\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"bicis.h"
+	"utn.h"
+
+1596033537 c:\users\dami_\onedrive\escritorio\parcial bicicleta\funciones.h
+	"LinkedList.h"
+
+1596033537 c:\users\dami_\onedrive\escritorio\parcial bicicleta\linkedlist.h
+
+1596033537 c:\users\dami_\onedrive\escritorio\parcial bicicleta\bicis.h
+	"LinkedList.h"
+
+1627474903 c:\users\dami_\onedrive\escritorio\parcial bicicleta\utn.h
+
+1596033537 source:c:\users\dami_\onedrive\escritorio\parcial bicicleta\bicis.c
+	<stdio.h>
+	<stdlib.h>
+	"bicis.h"
+	"LinkedList.h"
+
+1596033537 source:c:\users\dami_\onedrive\escritorio\parcial bicicleta\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1627475715 source:c:\users\dami_\onedrive\escritorio\parcial bicicleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"funciones.h"
+	<time.h>
+
+1596033537 source:c:\users\dami_\onedrive\escritorio\parcial bicicleta\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
